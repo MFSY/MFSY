@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am an experienced data, knowledge engineer and team lead with many years of experience on building knowledge graphs products to support data-driven use cases and projects. I have built, led diverse and international teams of software, data and knowledge engineers as well as data stewardships and curators. Along the way, I have collaborated with scientists, developers, Product and PMO teams to deliver.
+
 <!--
 **MFSY/MFSY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
